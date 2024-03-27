@@ -2,8 +2,8 @@ POST http://localhost:3333/api/links
 Content-Type: application/json
 
 {
-  "code": "test",
-  "url": "https://www.rocketseat.com.br"
+  "code": "google",
+  "url": "ttps://www.google.com"
 }
 
 ###
